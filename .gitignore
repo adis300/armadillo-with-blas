@@ -32,3 +32,6 @@
 *.app
 
 armadillo/
+openblas/
+lapack/
+deps/
