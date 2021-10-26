@@ -7,3 +7,6 @@ http://arma.sourceforge.net/download.html
 https://github.com/Reference-LAPACK/lapack/releases
 
 Provide amardillo with proper blas on multiple platforms.
+
+# Choco dependencies
+choco install cmake wget 7z llvm ninja

@@ -35,3 +35,4 @@ armadillo/
 openblas/
 lapack/
 deps/
+release/
